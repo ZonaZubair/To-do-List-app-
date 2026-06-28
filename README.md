@@ -27,7 +27,7 @@ A to-do list app with add, edit, complete, delete, filters, and persistence. Bui
 
 - **Edit a task:** click any task's text to turn it into an editable field. Press **Enter** to save, **Escape** to cancel, or click away to save automatically.
 - **Filters:** switch between **All**, **Active**, and **Completed** views
-- **Persistence:** tasks are saved to `localStorage`, so reloading the page doesn't lose anything
+- **Persistence:** tasks are saved to `localstorage`, so reloading the page doesn't lose anything
 - **Press Enter to add:** no need to click the Add button every time
 - **Remaining task counter:** live count of tasks not yet completed
 - **Clear completed:** removes all checked-off tasks in one click
