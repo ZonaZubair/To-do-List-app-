@@ -25,18 +25,18 @@ A to-do list app with add, edit, complete, delete, filters, and persistence. Bui
 
 ## ✨ Extra Features
 
-- **Edit a task** — click any task's text to turn it into an editable field. Press **Enter** to save, **Escape** to cancel, or click away to save automatically.
-- **Filters** — switch between **All**, **Active**, and **Completed** views
-- **Persistence** — tasks are saved to `localStorage`, so reloading the page doesn't lose anything
-- **Press Enter to add** — no need to click the Add button every time
-- **Remaining task counter** — live count of tasks not yet completed
-- **Clear completed** — removes all checked-off tasks in one click
+- **Edit a task:** click any task's text to turn it into an editable field. Press **Enter** to save, **Escape** to cancel, or click away to save automatically.
+- **Filters:** switch between **All**, **Active**, and **Completed** views
+- **Persistence:** tasks are saved to `localStorage`, so reloading the page doesn't lose anything
+- **Press Enter to add:** no need to click the Add button every time
+- **Remaining task counter:** live count of tasks not yet completed
+- **Clear completed:** removes all checked-off tasks in one click
 
 ---
 
 ## 🚀 How to Run
 
-**Option 1 — Just open it:**
+**Option 1: Just open it:**
 
 No installation needed.
 
@@ -44,7 +44,7 @@ No installation needed.
 Open index.html in any browser
 ```
 
-**Option 2 — Local server:**
+**Option 2: Local server:**
 
 ```bash
 python3 -m http.server 8080
