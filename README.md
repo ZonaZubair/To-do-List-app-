@@ -56,7 +56,7 @@ Then visit `http://localhost:8080`
 
 ## 🌐 Deployed
 
-*(Add your live URL here if deployed — Netlify / Vercel / GitHub Pages)*
+*(https://to-do-list-dw.netlify.app/)*
 
 ---
 
